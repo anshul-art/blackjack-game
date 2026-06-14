@@ -78,7 +78,7 @@ Tracks the player's chip balance (starts at 100) and the current bet. Has method
 **Requirements:** Python 3.6+
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/blackjack-game.git
+git clone https://github.com/anshul-art/blackjack-game.git
 cd blackjack-game
 python blackjack.py
 ```
